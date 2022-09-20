@@ -1,5 +1,5 @@
 # 2022-3b Yi-Hsuan Lin
-
+***
 Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and underscores**.
@@ -18,28 +18,28 @@ Strikethrough uses two tildes. ~~Sefateh-this~~.
 >>>* note 1
 >>>* note 2
 >>>* note 3
-
+***
 ![nkust](nkust.png "nkust")
-
+***
 todo list
 - [ ] todo list
 - [ ] 2nd
 - [x] done
 
 🐷
-
+***
 python code
 ```python
 s = "Python syntax highlighting"
 print s
 ```
-
+***
 javascript code
 ```javascript
 var s = "JavaScript syntax highlighting"
 alert(s);
 ```
-
+***
 Colons can be used to aligan columns
 | Tables    | Are      | Cool     |
 | :------   | :------: | --------:|
