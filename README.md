@@ -28,16 +28,18 @@ todo list
 
 🐷
 
-
 python code
-python
+```python
 s = "Python syntax highlighting"
 print s
+```
 
 javascript code
-javascript
+```javascript
 var s = "JavaScript syntax highlighting"
 alert(s);
+```
+
 Colons can be used to aligan columns
 | Tables    | Are      | Cool     |
 | :------   | :------: | --------:|
