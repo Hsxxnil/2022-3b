@@ -13,7 +13,7 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ```graphviz
-digraph 
+digraph {
 	node[shape=record];
 	rankdir="LR";
     no1 [label = "研擬計畫 | 編號:1 | 開始:第1天 | 結束:第1天 | 需時:1天"]
@@ -21,14 +21,7 @@ digraph
     no3 [label = "取得硬體 | 編號:3 | 開始:第2天 | 結束:第18天 | 需時:17天"]
     no1->no2
     no1->no3
-    no3 [label = "規劃訓練 | 編號:3 | 開始:第41天 | 結束:第45天 | 需時:5天"]
-    no4 [label = "安排後勤 | 編號:4 | 開始:第41天 | 結束:第65天 | 需時:25天"]
-    {rank=same;no3 no4}
-    no2->no3
-    no2->no4
-    no5 [label = "宣告訓練 | 編號:5 | 開始:第66天 | 結束:第95天 | 需時:30天"]
-    no3->no5
-    no4->no5
+}
 ```
 
 ```mermaid
