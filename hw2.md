@@ -16,6 +16,7 @@
 # PERT/CPM
 ![PERT/CPM](PERT.jpg "PERT")
 ***
+# 甘特圖
 ```mermaid
 gantt
     title 甘特圖
