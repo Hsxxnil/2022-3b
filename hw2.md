@@ -13,9 +13,9 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ***
+# PERT/CPM
 ![PERT/CPM](PERT.jpg "PERT")
 ***
-
 ```mermaid
 gantt
     title 甘特圖
@@ -52,3 +52,8 @@ gantt
     section 使用者測試
     25天:a11,after a9, 25d
 ```
+
+***
+# 關鍵路徑
+![path](path.jpg "path")
+***
