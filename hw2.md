@@ -13,7 +13,7 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ```graphviz
-digraph {
+digraph 
 	node[shape=record];
 	rankdir="LR";
     no1 [label = "研擬計畫 | 編號:1 | 開始:第1天 | 結束:第1天 | 需時:1天"]
@@ -29,7 +29,6 @@ digraph {
     no5 [label = "宣告訓練 | 編號:5 | 開始:第66天 | 結束:第95天 | 需時:30天"]
     no3->no5
     no4->no5
-}
 ```
 
 ```mermaid
