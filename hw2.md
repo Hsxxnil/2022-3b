@@ -12,6 +12,10 @@
 | 10 | 使用者訓練 | 20 | 7,8 |
 | 11 | 使用者測試 | 25 | 9,10 |
 
+***
+![PERT/CPM](PERT.jpg "PERT")
+***
+
 ```mermaid
 gantt
     title 甘特圖
