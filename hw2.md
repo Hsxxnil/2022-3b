@@ -13,7 +13,7 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ***
-# PERT/CPM
+# PERT
 ![PERT/CPM](PERT.jpg "PERT")
 ***
 # 甘特圖
@@ -55,6 +55,6 @@ gantt
 ```
 
 ***
-# 關鍵路徑
+# CPM
 ![path](path.jpg "path")
 ***
