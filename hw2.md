@@ -18,8 +18,6 @@
 ```mermaid
 gantt
     title 甘特圖
-    section 研擬計畫
-    a1, 2022-10-03, 30d
     研擬計畫:a1, 2022-10-03, 1d
     任務分配:after a1  , 4d
     取得硬體:after a1  , 17d
