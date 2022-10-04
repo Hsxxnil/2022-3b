@@ -46,5 +46,5 @@ gantt
     20天:a10,after a8, 20d
     
     section 使用者測試
-    25天:a11,after a10, 25d
+    25天:a11,after a9, 25d
 ```
