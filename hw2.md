@@ -43,8 +43,8 @@ gantt
     25天:a9,after a6  , 25d
     
     section 使用者訓練
-    20天:a10,after a7  ,after a8, 20d
+    20天:a10,after a8, 20d
     
     section 使用者測試
-    25天:a11,after a9  ,after a10, 25d
+    25天:a11,after a10, 25d
 ```
