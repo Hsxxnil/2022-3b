@@ -14,7 +14,7 @@
 
 ***
 # PERT
-![PERT/CPM](PERT.jpg "PERT")
+![PERT](PERT.jpg "PERT")
 ***
 # 甘特圖
 ```mermaid
