@@ -28,13 +28,13 @@ todo list
 
 🐷
 ***
-python code
+##### python code
 ```python
 s = "Python syntax highlighting"
 print s
 ```
 ***
-javascript code
+##### javascript code
 ```javascript
 var s = "JavaScript syntax highlighting"
 alert(s);
